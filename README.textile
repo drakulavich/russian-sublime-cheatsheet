@@ -1,0 +1,8 @@
+h2. Скачать
+
+Последняя версия шпаргалки в PDF доступна "по ссылке":https://github.com/drakulavich/russian-sublime-cheatsheet/raw/master/sublime-rc.pdf.
+
+
+h2. Подробности
+
+Информация почерпнута из "документа":https://gist.github.com/eteanga/1736542 от Eoin Ó Conchúir.
